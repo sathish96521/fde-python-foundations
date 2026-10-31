@@ -1,0 +1,13 @@
+ticket_id,customer_id,status,priority,created_at,subject
+T001,C01,open,high,2026-10-01,Cannot log in
+T002,C02,pending,,2026-10-02,Billing question
+T003,C01,closed,low,2026-10-02,Roaming not working
+T004,C03,open,medium,2026-10-03,Slow data speed
+T005,C04,open,high,2026-10-03,No signal at home
+T006,C02,closed,low,2026-10-04,Update address
+T007,C05,pending,medium,2026-10-05,Device setup help
+T008,C03,open,,2026-10-05,Charged twice
+T009,C06,closed,low,2026-10-06,Plan change
+T010,C01,pending,high,2026-10-07,Voicemail not working
+T011,C07,open,medium,2026-10-08,SIM replacement
+T012,C05,closed,low,2026-10-09,Invoice copy
